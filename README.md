@@ -161,5 +161,9 @@ Seam-Carving-Algorithm/
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
+## References
+
+- **Seam Carving Algorithm**: The algorithm and its implementation are inspired by the concepts discussed in the [Princeton University COS 226 course](https://www.cs.princeton.edu/courses/archive/fall17/cos226/assignments/seam/index.html).
+
 
 ```
